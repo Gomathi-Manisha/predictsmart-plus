@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+prophet
+pytrends
+fpdf
+folium
+geopy
